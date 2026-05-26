@@ -33,8 +33,8 @@
 #include <vector>
 
 // WiFi Credentials
-const char* ssid = "Squars";
-const char* password = "cosineangle";
+const char* ssid = "Your_ssid";
+const char* password = "Your_password";
 
 // Server Configuration
 const char* serverName = "www.circuitdigest.cloud";
